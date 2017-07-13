@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="feed_item_margin">10dp</dimen>
+    <dimen name="feed_item_padding_top_bottom">20dp</dimen>
+    <dimen name="feed_item_padding_left_right">15dp</dimen>
+    <dimen name="feed_item_profile_pic">50dp</dimen>
+    <dimen name="feed_item_profile_info_padd">10dp</dimen>
+    <dimen name="feed_item_profile_name">15dp</dimen>
+    <dimen name="feed_item_timestamp">13dp</dimen>
+    <dimen name="feed_item_status_pad_left_right">15dp</dimen>
+    <dimen name="feed_item_status_pad_top">13dp</dimen>
+    <dimen name="feed_item_corner_radius">3dp</dimen>
+    <dimen name="feed_item_border_width">1dp</dimen>
+
+
+    //login page
+    <dimen name="formpaddingleftright">24dp</dimen>
+    <dimen name="formpaddingtop">65dp</dimen>
+    <dimen name="logodimension">95dp</dimen>
+    <dimen name="logomarginbottom">24dp</dimen>
+    <dimen name="txtinputmarginbottomtop">8dp</dimen>
+    <dimen name="loginbuttonpadding">12dp</dimen>
+    <dimen name="inputtxtsize">18sp</dimen>
+    <dimen name="settingdimension">20dp</dimen>
+    <dimen name="settingmargin">8dp</dimen>
+    <dimen name="signupbarmargintop">20dp</dimen>
+
+
+    //register page
+    <dimen name="btntextsize">14sp</dimen>
+    <dimen name="btnheight">52dp</dimen>
+    <dimen name="signupbtnmargintopbotom">24dp</dimen>
+    <dimen name="rootlayoutpaddleright">24dp</dimen>
+    <dimen name="rootlayoutpaddtop">56dp</dimen>
+
+    //profile page
+    <dimen name="profileimgsize">150dp</dimen>
+    <dimen name="profilenametxtsize">18sp</dimen>
+    <dimen name="logoutbtntxtsize">19sp</dimen>
+    <dimen name="logoutbtnmargin">8dp</dimen>
+
+
+    //cutom toolbar
+    <dimen name="titletxtsize">18sp</dimen>
+    <dimen name="profileicondim">35dp</dimen>
+    <dimen name="profileiconrigtmargin">5dp</dimen>
+    <dimen name="proicontxtsize">9sp</dimen>
+
+</resources>

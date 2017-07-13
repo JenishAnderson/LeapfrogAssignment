@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "701529591522",
+    "firebase_url": "https://leapfrogassignment.firebaseio.com",
+    "project_id": "leapfrogassignment",
+    "storage_bucket": "leapfrogassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701529591522:android:e5e939520ed90ac1",
+        "android_client_info": {
+          "package_name": "com.example.leapfrogassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701529591522-1k2eoq9hml2bb6sanra9bfcoe8theblr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD4G76VxXy38rI3qduEpp2EGRAzyR2KSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

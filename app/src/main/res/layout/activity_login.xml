@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/formpaddingleftright"
+        android:paddingRight="@dimen/formpaddingleftright"
+        android:paddingTop="@dimen/formpaddingtop">
+
+
+        <!--  Email Label -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/txtinputmarginbottomtop"
+            android:layout_marginTop="@dimen/txtinputmarginbottomtop">
+
+            <EditText
+                android:id="@+id/etEmailLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@_."
+                android:hint="@string/email"
+                android:maxLength="45"
+                android:singleLine="true"
+                android:textSize="@dimen/inputtxtsize" />
+        </android.support.design.widget.TextInputLayout>
+
+        <!--  Password Label -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/txtinputmarginbottomtop"
+            android:layout_marginTop="@dimen/txtinputmarginbottomtop">
+
+            <EditText
+                android:id="@+id/etPasswordLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/password"
+                android:inputType="textPassword"
+                android:maxLength="30"
+                android:singleLine="true"
+                android:textSize="@dimen/inputtxtsize" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_login"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/formpaddingleftright"
+            android:layout_marginTop="@dimen/formpaddingleftright"
+            android:background="@color/loginblue"
+            android:padding="@dimen/loginbuttonpadding"
+            android:text="@string/login"
+            android:textColor="@color/white"
+            android:textSize="@dimen/inputtxtsize" />
+
+
+        <Button
+            android:id="@+id/btn_signup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/signupbarmargintop"
+            android:background="@null"
+            android:text="@string/notamember"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/inputtxtsize" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+

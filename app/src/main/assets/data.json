@@ -1,0 +1,84 @@
+{
+  "feeds": [
+    {
+      "feedId": 1,
+      "userId": "Harry1",
+      "userName": "Harry Porter",
+      "status": "But you know, happiness can be found even in the darkest of times, if one only remembers to turn on the light",
+      "userImage": "http://myartmagazine.com/file/images/11-2014/harry-porter-colored-pencils-heather.preview.jpg",
+      "feedImage": "http://www.hdwallpapers.in/walls/harry_potter_deathly_hallows_part_ii-wide.jpg"
+    },
+    {
+      "feedId": 2,
+      "userId": "Hermione1",
+      "userName": "Hermione Granger",
+      "status": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "userImage": "http://wallpapercave.com/wp/sVPf1rC.jpg",
+      "feedImage": "http://wallup.net/wp-content/uploads/2016/05/13/328355-Hermione_Granger-Emma_Watson-movies-Harry_Potter.jpg"
+    },
+    {
+      "feedId": 3,
+      "userId": "RonWeasley1",
+      "userName": "Ron Weasley",
+      "status": "It is our choices, Harry, that show what we truly are, far more than our abilities",
+      "userImage": "https://s-media-cache-ak0.pinimg.com/736x/6d/98/fb/6d98fb4db7fd059dd5ca82c22977bccf.jpg",
+      "feedImage": "http://images4.fanpop.com/image/photos/16500000/Ronald-Weasley-ronald-weasley-16502569-500-281.jpg"
+    },
+    {
+      "feedId": 5,
+      "userId": "Harry1",
+      "userName": "Harry Porter",
+      "status": "I am what I am, an’ I’m not ashamed. 'Never be ashamed,’ my ol’ dad used ter say, ‘there’s some who’ll hold it against you, but they’re not worth botherin’ with.”",
+      "userImage": "http://myartmagazine.com/file/images/11-2014/harry-porter-colored-pencils-heather.preview.jpg",
+      "feedImage": "http://wallpapercave.com/wp/AqJl5bc.jpg"
+    },
+    {
+      "feedId": 6,
+      "userId": "RonWeasley1",
+      "userName": "Ron Weasley",
+      "status": "The consequences of our actions are always so complicated, so diverse, that predicting the future is a very difficult business indeed",
+      "userImage": "https://s-media-cache-ak0.pinimg.com/736x/6d/98/fb/6d98fb4db7fd059dd5ca82c22977bccf.jpg",
+      "feedImage": "https://vignette3.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest/scale-to-width-down/350?cb=20150828153318"
+    },
+    {
+      "feedId": 8,
+      "userId": "Harry1",
+      "userName": "Harry Porter",
+      "status": "There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them",
+      "userImage": "http://myartmagazine.com/file/images/11-2014/harry-porter-colored-pencils-heather.preview.jpg",
+      "feedImage": "http://goldwallpapers.com/uploads/posts/harry-potter-and-the-deathly-hallows-wallpaper/harry_potter_and_the_deathly_hallows_wallpaper_002.jpg"
+    },
+    {
+      "feedId": 7,
+      "userId": "Hermione1",
+      "userName": "Hermione Granger",
+      "status": "What happened between you and Professor Quirell will remain secret. So, obviously, the entire school knows",
+      "userImage": "http://wallpapercave.com/wp/sVPf1rC.jpg",
+      "feedImage": "http://images5.fanpop.com/image/photos/25700000/Hermione-Granger-harry-potter-25750671-500-500.jpg"
+    },
+    {
+      "feedId": 8,
+      "userId": "RonWeasley1",
+      "userName": "Ron Weasley",
+      "status": "We cannot choose our fate, but we can choose others. Be careful in knowing that.",
+      "userImage": "https://s-media-cache-ak0.pinimg.com/736x/6d/98/fb/6d98fb4db7fd059dd5ca82c22977bccf.jpg",
+      "feedImage": "https://images3.alphacoders.com/273/thumb-1920-273817.jpg"
+    },
+    {
+      "feedId": 9,
+      "userId": "Harry1",
+      "userName": "Harry Porter",
+      "status": "You sort of start thinking anything’s possible if you’ve got enough nerve",
+      "userImage": "http://myartmagazine.com/file/images/11-2014/harry-porter-colored-pencils-heather.preview.jpg",
+      "feedImage": "https://images4.alphacoders.com/556/556449.jpg"
+    },
+    {
+      "feedId": 7,
+      "userId": "Hermione1",
+      "userName": "Hermione Granger",
+      "status": "It is arguably stated that Dumbledore, headmaster at Hogwarts School of Witchcraft and Wizardry, is the greatest wizard of our time, and though he is (sadly) a fictional character, he is still one of the wisest men ever invented. Dumbledore has voiced a myriad of inspirational advice, but I only included what I thought were the most inspirational",
+      "userImage": "http://wallpapercave.com/wp/sVPf1rC.jpg",
+      "feedImage": "https://s-media-cache-ak0.pinimg.com/originals/64/f5/16/64f516e0297dbd1364ea74291d71cbfe.jpg"
+    }
+  ]
+}

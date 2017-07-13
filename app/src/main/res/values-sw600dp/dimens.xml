@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+
+    <dimen name="feed_item_margin">10dp</dimen>
+    <dimen name="feed_item_padding_top_bottom">20dp</dimen>
+    <dimen name="feed_item_padding_left_right">15dp</dimen>
+    <dimen name="feed_item_profile_pic">50dp</dimen>
+    <dimen name="feed_item_profile_info_padd">10dp</dimen>
+    <dimen name="feed_item_profile_name">15dp</dimen>
+    <dimen name="feed_item_timestamp">13dp</dimen>
+    <dimen name="feed_item_status_pad_left_right">15dp</dimen>
+    <dimen name="feed_item_status_pad_top">13dp</dimen>
+    <dimen name="feed_item_corner_radius">3dp</dimen>
+    <dimen name="feed_item_border_width">1dp</dimen>
+
+
+    //login page
+    <dimen name="formpaddingleftright">40dp</dimen>
+    <dimen name="formpaddingtop">120dp</dimen>
+    <dimen name="logodimension">160dp</dimen>
+    <dimen name="logomarginbottom">45dp</dimen>
+    <dimen name="txtinputmarginbottomtop">15dp</dimen>
+    <dimen name="loginbuttonpadding">20dp</dimen>
+    <dimen name="inputtxtsize">26sp</dimen>
+    <dimen name="settingdimension">35dp</dimen>
+    <dimen name="settingmargin">15dp</dimen>
+    <dimen name="signupbarmargintop">30dp</dimen>
+
+    //register page
+    <dimen name="btntextsize">23sp</dimen>
+    <dimen name="btnheight">80dp</dimen>
+    <dimen name="signupbtnmargintopbotom">40dp</dimen>
+    <dimen name="rootlayoutpaddleright">40dp</dimen>
+    <dimen name="rootlayoutpaddtop">100dp</dimen>
+
+
+    //profile page
+    <dimen name="profileimgsize">250dp</dimen>
+    <dimen name="profilenametxtsize">25sp</dimen>
+    <dimen name="logoutbtntxtsize">26sp</dimen>
+    <dimen name="logoutbtnmargin">15dp</dimen>
+
+
+    //cutom toolbar
+    <dimen name="titletxtsize">25sp</dimen>
+    <dimen name="profileicondim">45dp</dimen>
+    <dimen name="profileiconrigtmargin">8dp</dimen>
+    <dimen name="proicontxtsize">14sp</dimen>
+
+</resources>
+

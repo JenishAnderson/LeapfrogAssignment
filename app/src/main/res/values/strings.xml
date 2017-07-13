@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LeapfrogAssignment</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="notamember">Not a member? Sign Up</string>
+
+
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="chooseimage">CHOOSE IMAGE</string>
+    <string name="createaccount">CREATE ACCOUNT</string>
+    <string name="alreadymember">Already a member? Login</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="profile">Profile</string>
+    <string name="myfeed">My Feed</string>
+
+    <string name="entername">Enter name!</string>
+    <string name="enteremail">Enter email address!</string>
+    <string name="enterpassword">Enter password!</string>
+    <string name="loginsuccesful">Login Succesful</string>
+    <string name="loadingprofile">Loading Profile...</string>
+    <string name="passwordtooshort">Password too short, enter minimum 6 characters!</string>
+    <string name="selectimage">Select Image!</string>
+    <string name="usercreationstatus">User creation status: </string>
+    <string name="authenticationfailed">Authentication Failed!</string>
+    <string name="imagewontupload">Image couldn\'t be uploaded!</string>
+    <string name="creatingprofile">Creating profile...</string>
+
+</resources>
