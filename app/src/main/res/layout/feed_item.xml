@@ -40,6 +40,7 @@
                     android:id="@+id/name"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/bluefb"
                     android:textSize="@dimen/feed_item_profile_name"
                     android:textStyle="bold" />
 
