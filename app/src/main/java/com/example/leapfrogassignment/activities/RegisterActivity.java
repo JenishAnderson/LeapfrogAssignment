@@ -192,7 +192,7 @@ public class RegisterActivity extends AppCompatActivity {
                         @Override
                         public void onComplete(@NonNull Task<AuthResult> task) {
 
-                            Toast.makeText(RegisterActivity.this, getString(R.string.usercreationstatus) + task.isSuccessful(), Toast.LENGTH_SHORT).show();
+                            Toast.makeText(RegisterActivity.this, task.isSuccessful() ? "User created succesfully" : "User not created!!!", Toast.LENGTH_SHORT).show();
 
                             if (!task.isSuccessful()) {
                                 hideProgressDialog();
